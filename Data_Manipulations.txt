@@ -1,0 +1,6 @@
+- use only regular audits
+- use only exit data 
+- use data for 15:00 - 23:00
+- use only weekday data
+- use one week every 6months
+- 2010 - 2017
